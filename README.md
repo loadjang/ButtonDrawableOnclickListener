@@ -1,4 +1,8 @@
-  CButtonDrawableClick button = (CButtonDrawableClick)findViewById(R.id.button);
+버튼 drawable 클릭 이벤트 리스너   
+
+
+
+CButtonDrawableClick button = (CButtonDrawableClick)findViewById(R.id.button);
 
         button.setCompoundDrawablesWithIntrinsicBounds(R.mipmap.ic_launcher,0,R.mipmap.ic_launcher,0);
 
